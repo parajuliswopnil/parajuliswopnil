@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on build L2
+- 🔭 I’m currently working on building L2
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on web3.0 technologies
 - 🤔 I’m looking for help with rust
